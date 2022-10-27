@@ -1,6 +1,0 @@
-db:
-  driver: mysql
-  user: omry
-  password: secret
-node:
-  waldo: 111

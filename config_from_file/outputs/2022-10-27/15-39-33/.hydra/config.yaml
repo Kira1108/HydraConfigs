@@ -1,5 +1,0 @@
-db:
-  driver: mysql
-  user: fuck
-  password: 2234
-  c: 123
